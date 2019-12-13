@@ -9,7 +9,7 @@ A one click installation tool for python time series forecasting with Qlik Sense
 2. Admin rights on the Qlik Sense Server
 
 ## Qwik Forecast Installer Installation Instructions
-1. Download or Clone this repository (to have this work without configuring settings then download this onto the Qlik Sense Server directly)
+1. Download the installer from here: https://github.com/rileymd88/qwik-forecast-installer/releases/download/v0.1/Qwik.Forecast.Installer.zip and unzip
 2. Right click on the start.bat file and run it as an Administrator
 3. Click on the Install Qwik Forecast button
 ![Qwik Forecast](https://raw.githubusercontent.com/rileymd88/data/master/qwik-forecast/qwik-forecast-install1.PNG)
